@@ -1,6 +1,8 @@
 # My First Blog Post
 
-Posted on: July 26, 2024
+Posted on: 2024-07-26
+
+Keywords: web design, minimalism, static site
 
 ## Introduction
 
